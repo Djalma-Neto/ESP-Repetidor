@@ -9,7 +9,7 @@ FONTE GITHUB: https://github.com/martin-ger/esp32_nat_router
 
 passo 1:
 Execute o programa "flash_download_tools_v3.6.8.exe"
-selecione os primeiros tres checkBox como na imagem1, logo depois em cada um aduicione os arquivos "bootloader.bin @ 0x1000","esp32_nat_router.bin @ 0x10000" e "partitions_example.bin @ 0x8000" respectivamente como na imagem, verifique as configurações:
+selecione os primeiros tres checkBox como na imagem1, logo depois em cada um adicione os arquivos "bootloader.bin @ 0x1000","esp32_nat_router.bin @ 0x10000" e "partitions_example.bin @ 0x8000" respectivamente como na imagem, verifique as configurações:
 - SPI SPEED: 40MHz
 - SPI MODE: DIO
 - FLASH SIZE: 32Mbit
