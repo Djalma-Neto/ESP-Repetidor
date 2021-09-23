@@ -2,7 +2,8 @@
 Repetidor de sinal wi-fi com esp32
 
 
-FONTE: https://www.youtube.com/watch?v=WOMy0lWc_pM&ab_channel=MaxDicas
+FONTE YOUTUBE: https://www.youtube.com/watch?v=WOMy0lWc_pM&ab_channel=MaxDicas
+FONTE GITHUB: https://github.com/martin-ger/esp32_nat_router
 
 ![Alt text](./Configurações.png?raw=true "Configurações")
 
